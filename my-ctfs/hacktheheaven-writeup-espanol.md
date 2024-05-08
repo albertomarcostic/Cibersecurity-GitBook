@@ -1,4 +1,4 @@
-# HackTheHeaven WriteUp
+# HackTheHeaven WriteUp (Español)
 
 Dificultad -> Difícil
 
@@ -352,9 +352,3 @@ root
 ```
 
 Hemos alcanzado el nivel de privilegios máximos en la máquina !
-
-Si has llegado hasta aquí, mi más sincera enhorabuena y espero que te haya encantado mi primer CTF !
-
-Nos vemos pronto !
-
-![Pasted image 20240506211457](https://github.com/albertomarcostic/HackTheHeaven/assets/131155486/a6bbcd1c-5cee-4f2c-b57c-e4ccccfe88b8)

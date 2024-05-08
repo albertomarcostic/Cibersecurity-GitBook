@@ -33,5 +33,5 @@
 
 ## 🏗️ My CTFs
 
-* [HackTheHeaven CTF (download)](my-ctfs/hacktheheaven-ctf-download.md)
-* [HackTheHeaven WriteUp](my-ctfs/hacktheheaven-writeup.md)
+* [HackTheHeaven CTF \[Download\]](my-ctfs/hacktheheaven-ctf-download.md)
+* [HackTheHeaven WriteUp (Español)](my-ctfs/hacktheheaven-writeup-espanol.md)
