@@ -16,7 +16,7 @@ PORT   STATE SERVICE REASON
 80/tcp open  http    syn-ack
 ```
 
-Lanzaremos un conjunto de scripts predeterminado con **nmap** para que nos reporte más información relacionada a los puertos descubiertos en el anterior escaneo.
+Lanzamos un conjunto de scripts predeterminado con **nmap** para que nos reporte más información relacionada a los puertos descubiertos en el anterior escaneo.
 
 ```shell
 nmap -sCV -p21,80 172.17.0.2 -oN targeted
