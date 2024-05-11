@@ -26,6 +26,7 @@
   * [Máquina Vacaciones](writeups/dockerlabs-espanol/maquina-vacaciones.md)
   * [Máquina WalkingCMS](writeups/dockerlabs-espanol/maquina-walkingcms.md)
   * [Máquina WhereIsMyWebShell](writeups/dockerlabs-espanol/maquina-whereismywebshell.md)
+  * [Máquina Secretjenkins](writeups/dockerlabs-espanol/maquina-secretjenkins.md)
 * [🐳 DockerLabs (English)](writeups/dockerlabs-english.md)
 * [🧡 VulnHub (English)](writeups/vulnhub.md)
 * [🔷 TryHackMe (English)](writeups/tryhackme-english.md)
