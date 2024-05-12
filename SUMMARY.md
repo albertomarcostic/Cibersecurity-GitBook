@@ -30,6 +30,7 @@
   * [Máquina HiddenCat](writeups/dockerlabs-espanol/maquina-hiddencat.md)
   * [Máquina BreakMySSH](writeups/dockerlabs-espanol/maquina-breakmyssh.md)
   * [Máquina FirstHacking](writeups/dockerlabs-espanol/maquina-firsthacking.md)
+  * [Máquina Asucar](writeups/dockerlabs-espanol/maquina-asucar.md)
 * [🐳 DockerLabs (English)](writeups/dockerlabs-english.md)
 * [🧡 VulnHub (English)](writeups/vulnhub.md)
 * [🔷 TryHackMe (English)](writeups/tryhackme-english.md)
