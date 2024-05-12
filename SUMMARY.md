@@ -31,6 +31,7 @@
   * [Máquina BreakMySSH](writeups/dockerlabs-espanol/maquina-breakmyssh.md)
   * [Máquina FirstHacking](writeups/dockerlabs-espanol/maquina-firsthacking.md)
   * [Máquina Asucar](writeups/dockerlabs-espanol/maquina-asucar.md)
+  * [Máquina Stranger](writeups/dockerlabs-espanol/maquina-stranger.md)
 * [🐳 DockerLabs (English)](writeups/dockerlabs-english.md)
 * [🧡 VulnHub (English)](writeups/vulnhub.md)
 * [🔷 TryHackMe (English)](writeups/tryhackme-english.md)
