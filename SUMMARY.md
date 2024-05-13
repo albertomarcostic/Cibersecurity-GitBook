@@ -33,6 +33,7 @@
   * [Máquina Asucar](writeups/dockerlabs-espanol/maquina-asucar.md)
   * [Máquina Stranger](writeups/dockerlabs-espanol/maquina-stranger.md)
   * [Máquina Library](writeups/dockerlabs-espanol/maquina-library.md)
+  * [Máquina Injection](writeups/dockerlabs-espanol/maquina-injection.md)
 * [🐳 DockerLabs (English)](writeups/dockerlabs-english.md)
 * [🧡 VulnHub (English)](writeups/vulnhub.md)
 * [🔷 TryHackMe (English)](writeups/tryhackme-english.md)
