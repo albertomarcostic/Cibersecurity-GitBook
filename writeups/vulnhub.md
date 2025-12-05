@@ -1,6 +1,3 @@
----
-description: Very soon.
----
-
 # 🧡 VulnHub (English)
 
+Very soon...
